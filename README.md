@@ -18,4 +18,4 @@ Hi, I’m Dmitry — a full-stack developer with a passion for designing scalabl
 ## Contact
 - Email: slatvinskiydmitriy@gmail.com  
 - Location: Celebration, FL  
-- Resume: Available upon request 
+-  
